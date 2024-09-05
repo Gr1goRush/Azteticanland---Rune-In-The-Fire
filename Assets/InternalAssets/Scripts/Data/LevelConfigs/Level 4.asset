@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50760117348888f4ebcf6421341bd4db, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  LevelID: 4
+  IsInfinity: 0
+  CubeSpritesPack: {fileID: 11400000, guid: 06fa02a46d730fe4283cb262f509d947, type: 2}
+  CubeFallSpeed: 4
+  ShiftValuesPeriod: 10
+  CubeGoal: 0000000006000000050000000700000008000000
+  TimeToGetStar: 800

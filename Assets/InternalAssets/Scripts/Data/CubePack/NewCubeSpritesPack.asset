@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 817826f8bb2d4374aa5bcffa0ddabca3, type: 3}
+  m_Name: NewCubeSpritesPack
+  m_EditorClassIdentifier: 
+  CubeSprites:
+  - {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 21300000, guid: 664b1e482f806e1488244d6a1ed9ba21, type: 3}
+  - {fileID: 21300000, guid: 54b69c7e39253fd4092ce76c187c916f, type: 3}
+  - {fileID: 21300000, guid: 816d4323e21ac044fb3112e38e68cb22, type: 3}
+  - {fileID: 21300000, guid: a3bfa86278bd6ee46a6bc44ea3ab0c29, type: 3}
